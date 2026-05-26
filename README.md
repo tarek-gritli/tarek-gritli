@@ -13,14 +13,6 @@
 
 ---
 
-<div align="center" style="margin-top: 15px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarek-gritli&show_icons=true&locale=en&layout=compact" alt="tarek-gritli" />
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tarek-gritli&show_icons=true&locale=en" alt="tarek-gritli" />
-</div>
-
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarek-gritli&" alt="tarek-gritli" />
 </div>
